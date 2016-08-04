@@ -1,7 +1,7 @@
 # Учебный проект «Барбершоп»
 
 * Студент: [Cristina Chiorov](https://up.htmlacademy.ru/htmlcss/14/user/158405).
-
+* Наставник: [Гоша Егорян](https://htmlacademy.ru/profile/id85633).
 ---
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
